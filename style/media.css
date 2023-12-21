@@ -1,0 +1,70 @@
+
+@media (max-width:1150px) {
+    .container {
+        flex-direction: column;
+    }
+    .container {
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .header__title {
+        margin-left: 60px;
+        
+
+
+    }
+    
+    .header__link {
+        margin-left: -25px;
+    }
+    
+    .main__block1 {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    
+    .main__paragrop {
+        margin-left: -60px;
+        font-size: 18px;
+    }
+
+    .main__block3 {
+        flex-direction: column;
+        flex-wrap: wrap;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    .main__block3 p{
+        margin-bottom: 30px;
+        font-weight: 700;
+    }
+    
+    .header__iphone {
+        flex-direction: column;
+        flex-wrap: wrap;
+        
+    }
+
+    .iphone__box {
+        margin-bottom: 40px;
+    }
+
+    
+
+   
+ 
+
+    
+}
+
+
+   
+   
+    
+
+
+
+  
+    
